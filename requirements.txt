@@ -6,3 +6,9 @@ scikit-learn
 seaborn     
 xgboost
 jupyter
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
